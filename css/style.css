@@ -1,0 +1,5 @@
+#carousel { height: 350px; width: 450px; margin: 20px auto; border: 3px solid black; overflow: hidden; }
+
+ul { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; list-style: none; width: 2250px; }
+
+li { width: 450px; list-style: none; float: right; }
