@@ -1,5 +1,24 @@
-#carousel { height: 350px; width: 450px; margin: 20px auto; border: 3px solid black; overflow: hidden; }
+#carousel {
+    height: 350px;
+    width: 525px;
+    margin: 20px auto;
+    border: 3px solid black;
+    overflow: hidden;
+}
 
-ul { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; list-style: none; width: 2250px; }
+ul {
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    width: 2625px;
+}
 
-li { width: 450px; list-style: none; float: right; }
+li{
+    width: 525px;
+    list-style: none;
+    float: right;
+}
