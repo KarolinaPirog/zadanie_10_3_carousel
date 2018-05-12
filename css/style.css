@@ -20,5 +20,5 @@ ul {
 li{
     width: 525px;
     list-style: none;
-    float: right;
+    float: left;
 }
